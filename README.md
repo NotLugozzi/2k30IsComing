@@ -11,7 +11,7 @@ Tutto il codice all'interno di questa Repo è distributito sotto la licenza GNU 
 - Lobilex - Roberto D'agnano
 
 #### Milestones
-- [] prima build
-- [] interfaccia
-- [] fix dell'ux 
-- [] consegna del progetto - q2 aprile
+- [ ] prima build
+- [ ] interfaccia
+- [ ] fix dell'ux 
+- [ ] consegna del progetto - q2 aprile
