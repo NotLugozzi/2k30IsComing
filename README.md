@@ -10,9 +10,15 @@ Tutto il codice all'interno di questa Repo è distributito sotto la licenza GNU 
 - Arancio - Simone Roscilli - Creative director
 - Lobilex - Roberto D'agnano
 
-#### Milestones
+### Milestones
 - [ ] prima build
 - [ ] interfaccia
 - [ ] grafica decente
 - [ ] consegna del progetto - q2 aprile
 
+### Il progetto in sintesi:
+Il giocatore si metterà nei panni di un cittadino e dovrà prendere decisioni su come svolgere la sua vita. In base a queste decisioni verranno alterati alcuni valori come la quantità di soldi che abbiamo, il nostro rispetto per l’ambiente, la nostra energia e la nostra salute. Ogni scelta vale due anni e gli obbiettivi vanno raggiunti in dei lassi di tempo prestabiliti:
+- obbiettivo 1 (2000->2010)
+- obbiettivo 2 (2010->2015)
+- obbiettivo 3 (2015->2020)
+- obbiettivo 4 (2020->2030)
