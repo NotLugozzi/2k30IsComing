@@ -22,3 +22,5 @@ Il giocatore si metterà nei panni di un cittadino e dovrà prendere decisioni s
 - obbiettivo 2 (2010->2015)
 - obbiettivo 3 (2015->2020)
 - obbiettivo 4 (2020->2030)
+ #### Altri dettagli
+Il videogioco che abbiamo pensato si basa su lapse: a forgotten future, di conseguenza vorremmo ispirarci all’interfaccia dello stesso: ![gioco](https://github.com/NotLugozzi/2k30IsComing/blob/main/yes.png)
