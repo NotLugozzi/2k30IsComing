@@ -5,9 +5,9 @@ Tutto il codice all'interno di questa Repo è distributito sotto la licenza GNU 
 - VsCode 1.54.3
  
 ### Collaboratori
-- AshWasTaken - Thomas Bassi - Main Developer
-- Banana - Federico Roscilli - Head of Development
-- Arancio - Simone Roscilli - Creative director
+- AshWasTaken - Thomas Bassi
+- Banana - Federico Roscilli
+- Arancio - Simone Roscilli
 - Lobilex - Roberto D'agnano
 
 ### Milestones
