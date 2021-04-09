@@ -10,4 +10,5 @@ public class domandaData : ScriptableObject
 
     public int variazioneSoldiA;
     public int variazioneSoldiB;
+    public int variazioneEconomia;
 }
