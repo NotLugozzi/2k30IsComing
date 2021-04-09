@@ -7,7 +7,6 @@ public class domandaUpdareDomande : MonoBehaviour
     public domandaData primaDomanda;
     public Text TestoDescrizione;
     public int soldi;
-    public int economia;
     private void Start()
     {
         TestoDescrizione.text = primaDomanda.dercrizione;
