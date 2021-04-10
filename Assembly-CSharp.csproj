@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{739BD5FC-BF7E-8081-6F9A-FA893D263D02}</ProjectGuid>
+    <ProjectGuid>{02B903CC-8830-ED83-F517-957508097B78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -56,9 +56,9 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\menu_Script.cs" />
-    <Compile Include="Assets\script\domandaData.cs" />
     <Compile Include="Assets\script\domandaUpdareDomande.cs" />
+    <Compile Include="Assets\script\domandaData.cs" />
+    <Compile Include="Assets\script\menu_Script.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

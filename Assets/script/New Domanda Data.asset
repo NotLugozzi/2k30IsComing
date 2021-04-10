@@ -12,4 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9686d51d26478494584150a6c6325976, type: 3}
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
-  dercrizione: bla bla bla
+  domanda1: bla bal bla
+  testoRispostaA: 
+  testoRispostaB: 
+  variazioneEconomiaA: 0
+  variazioneEconomiaB: 0
+  variazioneEnergiaA: 0
+  variazioneEnergiaB: 0
+  variazioneSaluteA: 0
+  variazioneSakuteB: 0
+  variazioneAmbienteA: 0
+  variazioneAmbienteB: 0

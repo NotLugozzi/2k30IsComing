@@ -6,13 +6,22 @@ public class domandaUpdareDomande : MonoBehaviour
 {
     public domandaData primaDomanda;
     public Text TestoDescrizione;
-    public int soldi;
+    public int economia;
+    public int ambiente;
+    public int salute;
+    public int energia;
     private void Start()
     {
-        TestoDescrizione.text = primaDomanda.dercrizione;
+        TestoDescrizione.text = primaDomanda.domanda1;
     }
     public void rispostaA()
     {
-        soldi = soldi - primaDomanda.variazioneSoldiA;
+        economia = economia + primaDomanda.variazioneEconomiaA;
+        salute = salute - primaDomanda.variazioneSaluteA;
+        ambiente = ambiente + primaDomanda.variazioneAmbienteA;
+    }
+    public void rispostaB()
+    {
+        
     }
 }

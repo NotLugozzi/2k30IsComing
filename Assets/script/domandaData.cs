@@ -4,10 +4,16 @@ using UnityEngine;
 [CreateAssetMenu]
 public class domandaData : ScriptableObject
 {
-    public string dercrizione;
+    public string domanda1;
     public string testoRispostaA;
     public string testoRispostaB;
 
-    public int variazioneSoldiA;
-    public int variazioneSoldiB;
+    public int variazioneEconomiaA;
+    public int variazioneEconomiaB;
+    public int variazioneEnergiaA;
+    public int variazioneEnergiaB;
+    public int variazioneSaluteA;
+    public int variazioneSakuteB;
+    public int variazioneAmbienteA;
+    public int variazioneAmbienteB;
 }
