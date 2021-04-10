@@ -7,7 +7,7 @@ public class menu_Script : MonoBehaviour
 {
     public void play()
     {
-        SceneManager.LoadScene(1);
+        AsyncOperation operazione = SceneManager.LoadSceneAsync(1);
     }
     public void quit()
     {
