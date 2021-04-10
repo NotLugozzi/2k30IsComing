@@ -14,11 +14,11 @@ public class domandaUpdareDomande : MonoBehaviour
     public int ambiente;
     public int salute;
     public int energia;
-    private void Start()
+    private void play()
     {
         TestoDomanda1.text = primaDomanda.domanda1;
-        TestoRispostaA.text = RispostaA.testoRispostaA;
         TestoRispostaB.text = RispostaB.testoRispostaB;
+        TestoRispostaA.text = RispostaA.testoRispostaA;
     }
     public void rispostaA()
     {

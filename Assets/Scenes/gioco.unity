@@ -983,7 +983,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: rispostaB
+  m_Text: rispostaA
 --- !u!222 &1085218265
 CanvasRenderer:
   m_ObjectHideFlags: 0
