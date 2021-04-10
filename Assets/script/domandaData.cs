@@ -13,7 +13,7 @@ public class domandaData : ScriptableObject
     public int variazioneEnergiaA;
     public int variazioneEnergiaB;
     public int variazioneSaluteA;
-    public int variazioneSakuteB;
+    public int variazioneSaluteB;
     public int variazioneAmbienteA;
     public int variazioneAmbienteB;
 }

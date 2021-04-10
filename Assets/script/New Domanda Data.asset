@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
   domanda1: bla bal bla
-  testoRispostaA: 
-  testoRispostaB: 
-  variazioneEconomiaA: 0
-  variazioneEconomiaB: 0
-  variazioneEnergiaA: 0
-  variazioneEnergiaB: 0
-  variazioneSaluteA: 0
-  variazioneSakuteB: 0
-  variazioneAmbienteA: 0
-  variazioneAmbienteB: 0
+  testoRispostaA: miao
+  testoRispostaB: ciao
+  variazioneEconomiaA: 10
+  variazioneEconomiaB: 10
+  variazioneEnergiaA: 10
+  variazioneEnergiaB: 10
+  variazioneSaluteA: 10
+  variazioneSaluteB: 10
+  variazioneAmbienteA: 10
+  variazioneAmbienteB: 10
