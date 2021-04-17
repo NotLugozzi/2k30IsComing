@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9686d51d26478494584150a6c6325976, type: 3}
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
-  domanda1: bla bal bla
+  domanda1: bla
   testoRispostaA: miao
   testoRispostaB: ciao
   variazioneEconomiaA: 10

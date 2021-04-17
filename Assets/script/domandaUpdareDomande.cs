@@ -14,7 +14,7 @@ public class domandaUpdareDomande : MonoBehaviour
     public int ambiente;
     public int salute;
     public int energia;
-    private void play()
+    public void play()
     {
         TestoDomanda1.text = primaDomanda.domanda1;
         TestoRispostaB.text = RispostaB.testoRispostaB;
@@ -31,6 +31,5 @@ public class domandaUpdareDomande : MonoBehaviour
         economia = economia - primaDomanda.variazioneEconomiaB;
         salute = salute + primaDomanda.variazioneSaluteB;
         ambiente = ambiente - primaDomanda.variazioneAmbienteB;
-
     }
 }
