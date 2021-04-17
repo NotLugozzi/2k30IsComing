@@ -20,6 +20,10 @@ public class domandaUpdareDomande : MonoBehaviour
         TestoRispostaB.text = RispostaB.testoRispostaB;
         TestoRispostaA.text = RispostaA.testoRispostaA;
     }
+    void Start()
+    {
+        play();
+    }
     public void rispostaA()
     {
         economia = economia + primaDomanda.variazioneEconomiaA;
