@@ -11,10 +11,10 @@ Tutto il codice all'interno di questa Repo è distributito sotto la licenza GNU 
 - Lobilex - Roberto D'agnano
 
 ### Milestones
-- [ ] prima build
-- [ ] interfaccia
+- [x] prima build
+- [x] interfaccia
 - [ ] grafica decente
-- [ ] consegna del progetto - q2 aprile
+- [ ] consegna del progetto - 4/5/21
 
 ### Il progetto in sintesi:
 Il giocatore si metterà nei panni di un cittadino e dovrà prendere decisioni su come svolgere la sua vita. In base a queste decisioni verranno alterati alcuni valori come la quantità di soldi che abbiamo, il nostro rispetto per l’ambiente, la nostra energia e la nostra salute. Ogni scelta vale due anni e gli obbiettivi vanno raggiunti in dei lassi di tempo prestabiliti:
