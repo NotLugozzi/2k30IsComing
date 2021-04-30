@@ -13,4 +13,12 @@ public class menu_Script : MonoBehaviour
     {
         Application.Quit();
     }
+    public void settings()
+    {
+       AsyncOperation settings = SceneManager.LoadSceneAsync(2);
+    }
+    public void AndTitle()
+    {
+        AsyncOperation TitoliDiCoda = SceneManager.LoadSceneAsync(4);
+    }
 }

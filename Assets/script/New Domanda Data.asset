@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9686d51d26478494584150a6c6325976, type: 3}
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
-  domanda1: Stai passeggiando e vedi della palstica per terra, cosa fai?
-  domanda2: 
-  domanda3: 
+  domanda1: a
+  domanda2: b
+  domanda3: c
   domanda4: 
   domanda5: 
   domanda6: 
@@ -27,8 +27,36 @@ MonoBehaviour:
   domanda13: 
   domanda14: 
   domanda15: 
-  testoRispostaA: La raccolgo e la butto nel contenitore adeguato
-  testoRispostaB: La lascio li
+  testoRispostaA1: a
+  testoRispostaB1: b
+  testoRispostaA2: aa
+  testoRispostaB2: bb
+  testoRispostaA3: 
+  testoRispostaB3: 
+  testoRispostaA4: 
+  testoRispostaB4: 
+  testoRispostaA5: 
+  testoRispostaB5: 
+  testoRispostaA6: 
+  testoRispostaB6: 
+  testoRispostaA7: 
+  testoRispostaB7: 
+  testoRispostaA8: 
+  testoRispostaB8: 
+  testoRispostaA9: 
+  testoRispostaB9: 
+  testoRispostaA10: 
+  testoRispostaB10: 
+  testoRispostaA11: 
+  testoRispostaB11: 
+  testoRispostaA12: 
+  testoRispostaB12: 
+  testoRispostaA13: 
+  testoRispostaB13: 
+  testoRispostaA14: 
+  testoRispostaB14: 
+  testoRispostaA15: 
+  testoRispostaB15: 
   variazioneEconomiaA: 10
   variazioneEconomiaB: 10
   variazioneEnergiaA: 10

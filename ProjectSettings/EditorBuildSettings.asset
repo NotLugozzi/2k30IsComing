@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gioco.unity
     guid: 49b03ef20bfa80a41a905f444347d029
+  - enabled: 1
+    path: Assets/Scenes/settings.unity
+    guid: 132ff82b50d81cf4284b523925d3059f
+  - enabled: 1
+    path: Assets/Scenes/punteggio.unity
+    guid: 5db8f0670ea3813438e15bf1a6fd9e7c
+  - enabled: 1
+    path: Assets/Scenes/crediti.unity
+    guid: 36e69ac5fd71f894c9f220ca90492d16
   m_configObjects: {}
