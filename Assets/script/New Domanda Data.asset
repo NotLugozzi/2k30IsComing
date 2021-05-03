@@ -12,41 +12,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9686d51d26478494584150a6c6325976, type: 3}
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
-  domanda1: a
-  domanda2: b
-  domanda3: c
-  domanda4: 
-  domanda5: 
-  domanda6: 
-  domanda7: 
+  Franco: 1
+  domanda1: Indossare maglietta
+  domanda2: buste usa e getta
+  domanda3: Costruire panelli solari
+  domanda4: hai una macchina a gasolio vecchia
+  domanda5: Sei molto stanco, per recupere le energie potresti fumare
+  domanda6: "Ti si \xE8 rotta la macchina, devi andare a lavoro"
+  domanda7: Il tubo del rubinetto perde
   domanda8: 
-  domanda9: 
-  domanda10: 
+  domanda9: Per risparmiare, consumi prodotti OGM derivati da allevamenti intensivi,
+    ti senti male
+  domanda10: fai la spesa, ma dimentichi la busta a casa
   domanda11: 
   domanda12: 
   domanda13: 
   domanda14: 
   domanda15: 
-  testoRispostaA1: a
-  testoRispostaB1: b
-  testoRispostaA2: aa
-  testoRispostaB2: bb
-  testoRispostaA3: 
-  testoRispostaB3: 
-  testoRispostaA4: 
-  testoRispostaB4: 
-  testoRispostaA5: 
-  testoRispostaB5: 
-  testoRispostaA6: 
-  testoRispostaB6: 
-  testoRispostaA7: 
-  testoRispostaB7: 
+  testoRispostaA1: riciclata in fibre sintetiche
+  testoRispostaB1: nuova di un altro materialericiclata in fibre sintetiche
+  testoRispostaA2: usare
+  testoRispostaB2: Non usare
+  testoRispostaA3: si
+  testoRispostaB3: no
+  testoRispostaA4: compri una nuova macchina ibrida
+  testoRispostaB4: lasci quella vecchia
+  testoRispostaA5: Si
+  testoRispostaB5: no
+  testoRispostaA6: prendi la bici
+  testoRispostaB6: "prendi l\u2019autobus"
+  testoRispostaA7: Aggiustalo
+  testoRispostaB7: non fare nulla
   testoRispostaA8: 
   testoRispostaB8: 
-  testoRispostaA9: 
-  testoRispostaB9: 
-  testoRispostaA10: 
-  testoRispostaB10: 
+  testoRispostaA9: Continui ad usarli
+  testoRispostaB9: Utilizzi prodotti bio
+  testoRispostaA10: Compri la busta biodegradabile
+  testoRispostaB10: usi una busta di plastica
   testoRispostaA11: 
   testoRispostaB11: 
   testoRispostaA12: 
@@ -65,3 +67,115 @@ MonoBehaviour:
   variazioneSaluteB: 10
   variazioneAmbienteA: 10
   variazioneAmbienteB: 10
+  variazioneEconomiaA2: 0
+  variazioneEconomiaB2: 0
+  variazioneEnergiaA2: 0
+  variazioneEnergiaB2: 0
+  variazioneSaluteA2: 0
+  variazioneSaluteB2: 0
+  variazioneAmbienteA2: 0
+  variazioneAmbienteB2: 0
+  variazioneEconomiaA3: 0
+  variazioneEconomiaB3: 0
+  variazioneEnergiaA3: 0
+  variazioneEnergiaB3: 0
+  variazioneSaluteA3: 0
+  variazioneSaluteB3: 0
+  variazioneAmbienteA3: 0
+  variazioneAmbienteB3: 0
+  variazioneEconomiaA4: 0
+  variazioneEconomiaB4: 0
+  variazioneEnergiaA4: 0
+  variazioneEnergiaB4: 0
+  variazioneSaluteA4: 0
+  variazioneSaluteB4: 0
+  variazioneAmbienteA4: 0
+  variazioneAmbienteB4: 0
+  variazioneEconomiaA5: 0
+  variazioneEconomiaB5: 0
+  variazioneEnergiaA5: 0
+  variazioneEnergiaB5: 0
+  variazioneSaluteA5: 0
+  variazioneSaluteB5: 0
+  variazioneAmbienteA5: 0
+  variazioneAmbienteB5: 0
+  variazioneEconomiaA6: 0
+  variazioneEconomiaB6: 0
+  variazioneEnergiaA6: 0
+  variazioneEnergiaB6: 0
+  variazioneSaluteA6: 0
+  variazioneSaluteB6: 0
+  variazioneAmbienteA6: 0
+  variazioneAmbienteB6: 0
+  variazioneEconomiaA7: 0
+  variazioneEconomiaB7: 0
+  variazioneEnergiaA7: 0
+  variazioneEnergiaB7: 0
+  variazioneSaluteA7: 0
+  variazioneSaluteB7: 0
+  variazioneAmbienteA7: 0
+  variazioneAmbienteB7: 0
+  variazioneEconomiaA8: 0
+  variazioneEconomiaB8: 0
+  variazioneEnergiaA8: 0
+  variazioneEnergiaB8: 0
+  variazioneSaluteA8: 0
+  variazioneSaluteB8: 0
+  variazioneAmbienteA8: 0
+  variazioneAmbienteB8: 0
+  variazioneEconomiaA9: 0
+  variazioneEconomiaB9: 0
+  variazioneEnergiaA9: 0
+  variazioneEnergiaB9: 0
+  variazioneSaluteA9: 0
+  variazioneSaluteB9: 0
+  variazioneAmbienteA9: 0
+  variazioneAmbienteB9: 0
+  variazioneEconomiaA10: 0
+  variazioneEconomiaB10: 0
+  variazioneEnergiaA10: 0
+  variazioneEnergiaB10: 0
+  variazioneSaluteA10: 0
+  variazioneSaluteB10: 0
+  variazioneAmbienteA10: 0
+  variazioneAmbienteB10: 0
+  variazioneEconomiaA11: 0
+  variazioneEconomiaB11: 0
+  variazioneEnergiaA11: 0
+  variazioneEnergiaB11: 0
+  variazioneSaluteA11: 0
+  variazioneSaluteB11: 0
+  variazioneAmbienteA11: 0
+  variazioneAmbienteB11: 0
+  variazioneEconomiaA12: 0
+  variazioneEconomiaB12: 0
+  variazioneEnergiaA12: 0
+  variazioneEnergiaB12: 0
+  variazioneSaluteA12: 0
+  variazioneSaluteB12: 0
+  variazioneAmbienteA12: 0
+  variazioneAmbienteB12: 0
+  variazioneEconomiaA13: 0
+  variazioneEconomiaB13: 0
+  variazioneEnergiaA13: 0
+  variazioneEnergiaB13: 0
+  variazioneSaluteA13: 0
+  variazioneSaluteB13: 0
+  variazioneAmbienteA13: 0
+  variazioneAmbienteB13: 0
+  variazioneEconomiaA14: 0
+  variazioneEconomiaB14: 0
+  variazioneEnergiaA14: 0
+  variazioneEnergiaB14: 0
+  variazioneSaluteA14: 0
+  variazioneSaluteB14: 0
+  variazioneAmbienteA14: 0
+  variazioneAmbienteB14: 0
+  variazioneEconomiaA15: 0
+  variazioneEconomiaB15: 0
+  variazioneEnergiaA15: 0
+  variazioneEnergiaB15: 0
+  variazioneSaluteA15: 0
+  variazioneSaluteB15: 0
+  variazioneAmbienteA15: 0
+  variazioneAmbienteB15: 0
