@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9686d51d26478494584150a6c6325976, type: 3}
   m_Name: New Domanda Data
   m_EditorClassIdentifier: 
-  Franco: 1
+  testoData: 
   domanda1: Indossare maglietta
   domanda2: buste usa e getta
   domanda3: Costruire panelli solari
@@ -20,15 +20,15 @@ MonoBehaviour:
   domanda5: Sei molto stanco, per recupere le energie potresti fumare
   domanda6: "Ti si \xE8 rotta la macchina, devi andare a lavoro"
   domanda7: Il tubo del rubinetto perde
-  domanda8: 
+  domanda8: tagliare un gruppo di alberi per allevamenti
   domanda9: Per risparmiare, consumi prodotti OGM derivati da allevamenti intensivi,
     ti senti male
   domanda10: fai la spesa, ma dimentichi la busta a casa
-  domanda11: 
-  domanda12: 
+  domanda11: come consumere l'acqua
+  domanda12: invito tanta gente a casa uso...
   domanda13: 
   domanda14: 
-  domanda15: 
+  domanda15: 'dove getto '
   testoRispostaA1: riciclata in fibre sintetiche
   testoRispostaB1: nuova di un altro materialericiclata in fibre sintetiche
   testoRispostaA2: usare
@@ -43,16 +43,16 @@ MonoBehaviour:
   testoRispostaB6: "prendi l\u2019autobus"
   testoRispostaA7: Aggiustalo
   testoRispostaB7: non fare nulla
-  testoRispostaA8: 
-  testoRispostaB8: 
+  testoRispostaA8: 'si '
+  testoRispostaB8: no
   testoRispostaA9: Continui ad usarli
   testoRispostaB9: Utilizzi prodotti bio
   testoRispostaA10: Compri la busta biodegradabile
   testoRispostaB10: usi una busta di plastica
-  testoRispostaA11: 
-  testoRispostaB11: 
-  testoRispostaA12: 
-  testoRispostaB12: 
+  testoRispostaA11: 'dal rubinetto '
+  testoRispostaB11: dalla bottiglia
+  testoRispostaA12: piatti di plastica
+  testoRispostaB12: piatti di ceramica
   testoRispostaA13: 
   testoRispostaB13: 
   testoRispostaA14: 
@@ -67,14 +67,14 @@ MonoBehaviour:
   variazioneSaluteB: 10
   variazioneAmbienteA: 10
   variazioneAmbienteB: 10
-  variazioneEconomiaA2: 0
-  variazioneEconomiaB2: 0
-  variazioneEnergiaA2: 0
-  variazioneEnergiaB2: 0
-  variazioneSaluteA2: 0
-  variazioneSaluteB2: 0
-  variazioneAmbienteA2: 0
-  variazioneAmbienteB2: 0
+  variazioneEconomiaA2: 20
+  variazioneEconomiaB2: 20
+  variazioneEnergiaA2: 20
+  variazioneEnergiaB2: 20
+  variazioneSaluteA2: 20
+  variazioneSaluteB2: 20
+  variazioneAmbienteA2: 20
+  variazioneAmbienteB2: 20
   variazioneEconomiaA3: 0
   variazioneEconomiaB3: 0
   variazioneEnergiaA3: 0
@@ -141,12 +141,12 @@ MonoBehaviour:
   variazioneAmbienteB10: 0
   variazioneEconomiaA11: 0
   variazioneEconomiaB11: 0
-  variazioneEnergiaA11: 0
-  variazioneEnergiaB11: 0
-  variazioneSaluteA11: 0
-  variazioneSaluteB11: 0
+  variazioneEnergiaA11: 10
+  variazioneEnergiaB11: 10
+  variazioneSaluteA11: 10
+  variazioneSaluteB11: 10
   variazioneAmbienteA11: 0
-  variazioneAmbienteB11: 0
+  variazioneAmbienteB11: 1
   variazioneEconomiaA12: 0
   variazioneEconomiaB12: 0
   variazioneEnergiaA12: 0

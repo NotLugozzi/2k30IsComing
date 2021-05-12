@@ -342,8 +342,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 360}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.11e-10, y: -468.72}
-  m_SizeDelta: {x: 373, y: 1435.4458}
+  m_AnchoredPosition: {x: 2.125, y: -1190.2424}
+  m_SizeDelta: {x: 385.75, y: 1864.4478}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1847075169
 MonoBehaviour:
@@ -390,12 +390,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "progetto a cura della\n2\xB0Ae\n\nMAIN CREATOR\nRoberto D'Agnano\nFederico
-    Roscilli\nSimone Roscilli\nThomas Bassi\n\nRESPONSABILE TITOLO\nGregorio Vetrugno\n\nIDEATORE
-    MECCANICA DI GIOCO\nSimone roscilli\n\nPROGRAMMATORI\nRoberto D'agnano\nFederico
-    Roscilli\nThomas Bassi\n\nRESPONSABILE COLONNA SONORA\nFerrari Simone\n\nRESPONSABILI
-    CONTESTO GIOCO\ngruppo 2\n\nCOORDINATORE\nSimone Roscilli\n\nRESPONSABILE CREAZIONE
-    GIOCO\ngruppo 1\n\nCOORDINATORE GRUPPO 1\nAlessio Burbuglini\n\n\n\n\n"
+  m_Text: "2030 IS COMING\n\nprogetto a cura della\n2\xB0Ae\n\nMAIN CREATOR\nRoberto
+    D'Agnano\nFederico Roscilli\nSimone Roscilli\nThomas Bassi\n\nRESPONSABILE TITOLO\nGregorio
+    Vetrugno\n\nIDEATORE MECCANICA DI GIOCO\nSimone roscilli\n\nPROGRAMMATORI\nRoberto
+    D'agnano\nFederico Roscilli\nThomas Bassi\n\nRESPONSABILE COLONNA SONORA\nFerrari
+    Simone\n\nCOORDINATORE GENERALE\nThomas Bassi\n\nCOORDINATORE GRUPPO 2\nSimone
+    Roscilli\n\nRESPONSABILI CONTESTO GIOCO\ngruppo 2\n\nCOORDINATORE GRUPPO 1\nAlessio
+    Burbuglini\n\nRESPONSABILE CREAZIONE GIOCO\ngruppo 1\n\nGRUPPO 1\r\nBassi\r\nBurbuglin\r\nD'agnano\r\nFerrari\r\nPaterna\r\nBellacosa\r\nFederico
+    Roscilli\r\nTibichi, Vetrugno\r\n\r\nGRUPPO 2\r\nRoscilli Simone\r\nFonsdituri
+    Lorenzo\r\n Upton Marco\r\nMancini Massimo\r\n Marziali Massimo\r\n Roghini Leonardo\r\nEvans\r\n
+    Boglioni\r\nFerraris\r\n Tiri\r\n Cordella\r\n\r\nRINGRAZIAMENTI SPECIALI\r\nun
+    ringraziamento ai ragazzi dell'accademia AIV per il supporto tecnico\r\nalla
+    professoressa Nadia Cossuto per il tempo dedicato al progetto,\nai professori
+    della commissione di ed. civica per le loro ore cedute e per l'opportinit\xE0
+    data.\n\n\n\n"
 --- !u!222 &1847075171
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -4,7 +4,7 @@ using UnityEngine;
 [CreateAssetMenu]
 public class domandaData : ScriptableObject
 {
-    public string Franco;
+    public string testoData;
     //variabili domande poggers
     public string domanda1;
     public string domanda2;
