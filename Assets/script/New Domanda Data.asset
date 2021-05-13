@@ -17,18 +17,18 @@ MonoBehaviour:
   domanda2: buste usa e getta
   domanda3: Costruire panelli solari
   domanda4: hai una macchina a gasolio vecchia
-  domanda5: Sei molto stanco, per recupere le energie potresti fumare
+  domanda5: "hai appena manciato ma hai l\xF2asciato degli avanzi, cosa fai?"
   domanda6: "Ti si \xE8 rotta la macchina, devi andare a lavoro"
   domanda7: Il tubo del rubinetto perde
-  domanda8: tagliare un gruppo di alberi per allevamenti
+  domanda8: "ti si \xE8 rotto il frigo"
   domanda9: Per risparmiare, consumi prodotti OGM derivati da allevamenti intensivi,
     ti senti male
   domanda10: fai la spesa, ma dimentichi la busta a casa
-  domanda11: come consumere l'acqua
+  domanda11: comprare;
   domanda12: invito tanta gente a casa uso...
-  domanda13: 
-  domanda14: 
-  domanda15: 'dove getto '
+  domanda13: buttare il coontenitore
+  domanda14: trovo un rifiuto per terra
+  domanda15: "ti \xE8 avanzato del cibo"
   testoRispostaA1: riciclata in fibre sintetiche
   testoRispostaB1: nuova di un altro materialericiclata in fibre sintetiche
   testoRispostaA2: usare
@@ -36,146 +36,146 @@ MonoBehaviour:
   testoRispostaA3: si
   testoRispostaB3: no
   testoRispostaA4: compri una nuova macchina ibrida
-  testoRispostaB4: lasci quella vecchia
-  testoRispostaA5: Si
-  testoRispostaB5: no
+  testoRispostaB4: compri una macchina a benzina
+  testoRispostaA5: conservarli
+  testoRispostaB5: buttarli
   testoRispostaA6: prendi la bici
   testoRispostaB6: "prendi l\u2019autobus"
   testoRispostaA7: Aggiustalo
   testoRispostaB7: non fare nulla
-  testoRispostaA8: 'si '
-  testoRispostaB8: no
+  testoRispostaA8: lo lasci i mezzo alla strada
+  testoRispostaB8: lo porti all'isola ecologica
   testoRispostaA9: Continui ad usarli
   testoRispostaB9: Utilizzi prodotti bio
   testoRispostaA10: Compri la busta biodegradabile
   testoRispostaB10: usi una busta di plastica
-  testoRispostaA11: 'dal rubinetto '
-  testoRispostaB11: dalla bottiglia
-  testoRispostaA12: piatti di plastica
-  testoRispostaB12: piatti di ceramica
-  testoRispostaA13: 
-  testoRispostaB13: 
-  testoRispostaA14: 
-  testoRispostaB14: 
-  testoRispostaA15: 
-  testoRispostaB15: 
+  testoRispostaA11: contenitore monouso
+  testoRispostaB11: 'contenitore riusabile '
+  testoRispostaA12: raccolta differenziata
+  testoRispostaB12: non uso la raccolta differenziata
+  testoRispostaA13: 'in mare '
+  testoRispostaB13: nel secchio
+  testoRispostaA14: lo raccogli
+  testoRispostaB14: non la raccogli
+  testoRispostaA15: lo butto del secchio
+  testoRispostaB15: lo uso come fertilizzante
   variazioneEconomiaA: 10
   variazioneEconomiaB: 10
-  variazioneEnergiaA: 10
-  variazioneEnergiaB: 10
+  variazioneEnergiaA: 0
+  variazioneEnergiaB: 0
   variazioneSaluteA: 10
   variazioneSaluteB: 10
-  variazioneAmbienteA: 10
-  variazioneAmbienteB: 10
-  variazioneEconomiaA2: 20
-  variazioneEconomiaB2: 20
-  variazioneEnergiaA2: 20
-  variazioneEnergiaB2: 20
-  variazioneSaluteA2: 20
-  variazioneSaluteB2: 20
-  variazioneAmbienteA2: 20
-  variazioneAmbienteB2: 20
-  variazioneEconomiaA3: 0
-  variazioneEconomiaB3: 0
+  variazioneAmbienteA: 20
+  variazioneAmbienteB: 20
+  variazioneEconomiaA2: 0
+  variazioneEconomiaB2: 0
+  variazioneEnergiaA2: 10
+  variazioneEnergiaB2: 10
+  variazioneSaluteA2: 0
+  variazioneSaluteB2: 0
+  variazioneAmbienteA2: 10
+  variazioneAmbienteB2: 10
+  variazioneEconomiaA3: 10
+  variazioneEconomiaB3: 10
   variazioneEnergiaA3: 0
   variazioneEnergiaB3: 0
   variazioneSaluteA3: 0
   variazioneSaluteB3: 0
-  variazioneAmbienteA3: 0
-  variazioneAmbienteB3: 0
-  variazioneEconomiaA4: 0
-  variazioneEconomiaB4: 0
+  variazioneAmbienteA3: 10
+  variazioneAmbienteB3: 10
+  variazioneEconomiaA4: 10
+  variazioneEconomiaB4: 10
   variazioneEnergiaA4: 0
   variazioneEnergiaB4: 0
-  variazioneSaluteA4: 0
-  variazioneSaluteB4: 0
-  variazioneAmbienteA4: 0
-  variazioneAmbienteB4: 0
-  variazioneEconomiaA5: 0
-  variazioneEconomiaB5: 0
-  variazioneEnergiaA5: 0
-  variazioneEnergiaB5: 0
-  variazioneSaluteA5: 0
-  variazioneSaluteB5: 0
+  variazioneSaluteA4: 10
+  variazioneSaluteB4: 10
+  variazioneAmbienteA4: 10
+  variazioneAmbienteB4: 10
+  variazioneEconomiaA5: 10
+  variazioneEconomiaB5: 10
+  variazioneEnergiaA5: 20
+  variazioneEnergiaB5: 20
+  variazioneSaluteA5: 10
+  variazioneSaluteB5: 10
   variazioneAmbienteA5: 0
   variazioneAmbienteB5: 0
   variazioneEconomiaA6: 0
   variazioneEconomiaB6: 0
-  variazioneEnergiaA6: 0
-  variazioneEnergiaB6: 0
-  variazioneSaluteA6: 0
-  variazioneSaluteB6: 0
-  variazioneAmbienteA6: 0
-  variazioneAmbienteB6: 0
-  variazioneEconomiaA7: 0
-  variazioneEconomiaB7: 0
-  variazioneEnergiaA7: 0
-  variazioneEnergiaB7: 0
+  variazioneEnergiaA6: 10
+  variazioneEnergiaB6: 10
+  variazioneSaluteA6: 20
+  variazioneSaluteB6: 20
+  variazioneAmbienteA6: 10
+  variazioneAmbienteB6: 10
+  variazioneEconomiaA7: 10
+  variazioneEconomiaB7: 10
+  variazioneEnergiaA7: 10
+  variazioneEnergiaB7: 10
   variazioneSaluteA7: 0
   variazioneSaluteB7: 0
-  variazioneAmbienteA7: 0
-  variazioneAmbienteB7: 0
+  variazioneAmbienteA7: 10
+  variazioneAmbienteB7: 10
   variazioneEconomiaA8: 0
-  variazioneEconomiaB8: 0
-  variazioneEnergiaA8: 0
-  variazioneEnergiaB8: 0
+  variazioneEconomiaB8: 10
+  variazioneEnergiaA8: 10
+  variazioneEnergiaB8: 10
   variazioneSaluteA8: 0
   variazioneSaluteB8: 0
-  variazioneAmbienteA8: 0
-  variazioneAmbienteB8: 0
-  variazioneEconomiaA9: 0
-  variazioneEconomiaB9: 0
+  variazioneAmbienteA8: 10
+  variazioneAmbienteB8: 20
+  variazioneEconomiaA9: 10
+  variazioneEconomiaB9: 10
   variazioneEnergiaA9: 0
   variazioneEnergiaB9: 0
-  variazioneSaluteA9: 0
-  variazioneSaluteB9: 0
-  variazioneAmbienteA9: 0
-  variazioneAmbienteB9: 0
-  variazioneEconomiaA10: 0
-  variazioneEconomiaB10: 0
+  variazioneSaluteA9: 10
+  variazioneSaluteB9: 10
+  variazioneAmbienteA9: 10
+  variazioneAmbienteB9: 10
+  variazioneEconomiaA10: 10
+  variazioneEconomiaB10: 10
   variazioneEnergiaA10: 0
   variazioneEnergiaB10: 0
   variazioneSaluteA10: 0
   variazioneSaluteB10: 0
-  variazioneAmbienteA10: 0
-  variazioneAmbienteB10: 0
-  variazioneEconomiaA11: 0
-  variazioneEconomiaB11: 0
+  variazioneAmbienteA10: 10
+  variazioneAmbienteB10: 10
+  variazioneEconomiaA11: 10
+  variazioneEconomiaB11: 10
   variazioneEnergiaA11: 10
   variazioneEnergiaB11: 10
-  variazioneSaluteA11: 10
-  variazioneSaluteB11: 10
-  variazioneAmbienteA11: 0
-  variazioneAmbienteB11: 1
-  variazioneEconomiaA12: 0
-  variazioneEconomiaB12: 0
-  variazioneEnergiaA12: 0
-  variazioneEnergiaB12: 0
+  variazioneSaluteA11: 0
+  variazioneSaluteB11: 0
+  variazioneAmbienteA11: 10
+  variazioneAmbienteB11: 10
+  variazioneEconomiaA12: 10
+  variazioneEconomiaB12: 10
+  variazioneEnergiaA12: 10
+  variazioneEnergiaB12: 10
   variazioneSaluteA12: 0
   variazioneSaluteB12: 0
-  variazioneAmbienteA12: 0
-  variazioneAmbienteB12: 0
-  variazioneEconomiaA13: 0
-  variazioneEconomiaB13: 0
-  variazioneEnergiaA13: 0
-  variazioneEnergiaB13: 0
+  variazioneAmbienteA12: 10
+  variazioneAmbienteB12: 10
+  variazioneEconomiaA13: 10
+  variazioneEconomiaB13: 10
+  variazioneEnergiaA13: 10
+  variazioneEnergiaB13: 10
   variazioneSaluteA13: 0
   variazioneSaluteB13: 0
-  variazioneAmbienteA13: 0
-  variazioneAmbienteB13: 0
+  variazioneAmbienteA13: 10
+  variazioneAmbienteB13: 10
   variazioneEconomiaA14: 0
   variazioneEconomiaB14: 0
-  variazioneEnergiaA14: 0
-  variazioneEnergiaB14: 0
+  variazioneEnergiaA14: 10
+  variazioneEnergiaB14: 10
   variazioneSaluteA14: 0
   variazioneSaluteB14: 0
-  variazioneAmbienteA14: 0
-  variazioneAmbienteB14: 0
-  variazioneEconomiaA15: 0
-  variazioneEconomiaB15: 0
-  variazioneEnergiaA15: 0
-  variazioneEnergiaB15: 0
+  variazioneAmbienteA14: 10
+  variazioneAmbienteB14: 10
+  variazioneEconomiaA15: 10
+  variazioneEconomiaB15: 10
+  variazioneEnergiaA15: 10
+  variazioneEnergiaB15: 10
   variazioneSaluteA15: 0
   variazioneSaluteB15: 0
-  variazioneAmbienteA15: 0
-  variazioneAmbienteB15: 0
+  variazioneAmbienteA15: 10
+  variazioneAmbienteB15: 10

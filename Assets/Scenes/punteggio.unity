@@ -806,8 +806,11 @@ MonoBehaviour:
   TestoDomanda1: {fileID: 0}
   TestoRispostaA: {fileID: 0}
   TestoRispostaB: {fileID: 0}
-  TestoAmbiente: {fileID: 81845788}
-  TestoEconomia: {fileID: 0}
+  TestoAmbiente: {fileID: 0}
+  testoPunteggioA: {fileID: 158844926}
+  TestoEconomia: {fileID: 1682718994}
+  TestoEnergia: {fileID: 292332851}
+  TestoSalute: {fileID: 81845788}
   Data: {fileID: 0}
   economia: 0
   ambiente: 0

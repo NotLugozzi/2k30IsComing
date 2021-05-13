@@ -12,7 +12,10 @@ public class domandaUpdareDomande : MonoBehaviour
     public Text TestoRispostaA;
     public Text TestoRispostaB;
     public Text TestoAmbiente;
+    public Text testoPunteggioA;
     public Text TestoEconomia;
+    public Text TestoEnergia;
+    public Text TestoSalute;
     public Text Data;
     public int economia;
     public int ambiente;
@@ -29,10 +32,15 @@ public class domandaUpdareDomande : MonoBehaviour
         TestoRispostaA.text = RispostaA.testoRispostaA1;
         TestoAmbiente.text = ambiente.ToString();
         Data.text = countData.ToString();
+        testoPunteggioA.text = ambiente.ToString();
     }
     void Update()
     {
         Data.text = countData.ToString();
+        TestoAmbiente.text = ambiente.ToString();
+        TestoEconomia.text = economia.ToString();
+        TestoSalute.text = salute.ToString();
+        TestoEnergia.text = energia.ToString();
     }
     void Start()
     {
@@ -61,8 +69,8 @@ public class domandaUpdareDomande : MonoBehaviour
             countData = countData + 2;
 
             economia = economia + primaDomanda.variazioneEconomiaA2;
-            salute = salute - primaDomanda.variazioneSaluteA2;
-            ambiente = ambiente + primaDomanda.variazioneAmbienteA2;
+            salute = salute + primaDomanda.variazioneSaluteA2;
+            ambiente = ambiente - primaDomanda.variazioneAmbienteA2;
             count++;
         }
         else if (count == 2)
@@ -84,8 +92,8 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA4;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA4;
-            salute = salute - primaDomanda.variazioneSaluteA4;
+            economia = economia - primaDomanda.variazioneEconomiaA4;
+            salute = salute + primaDomanda.variazioneSaluteA4;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA4;
             count++;
         }
@@ -97,8 +105,9 @@ public class domandaUpdareDomande : MonoBehaviour
             countData = countData + 2;
 
             economia = economia + primaDomanda.variazioneEconomiaA5;
-            salute = salute - primaDomanda.variazioneSaluteA5;
+            salute = salute + primaDomanda.variazioneSaluteA5;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA5;
+            energia = energia + primaDomanda.variazioneEnergiaA5;
             count++;
         }
         else if (count == 5)
@@ -109,8 +118,9 @@ public class domandaUpdareDomande : MonoBehaviour
             countData = countData + 2;
 
             economia = economia + primaDomanda.variazioneEconomiaA6;
-            salute = salute - primaDomanda.variazioneSaluteA6;
+            salute = salute + primaDomanda.variazioneSaluteA6;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA6;
+            energia = energia - primaDomanda.variazioneEnergiaA6;
             count++;
         }
         else if (count == 6)
@@ -123,6 +133,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia + primaDomanda.variazioneEconomiaA7;
             salute = salute - primaDomanda.variazioneSaluteA7;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA7;
+            energia = energia - primaDomanda.variazioneEnergiaA7;
             count++;
         }
         else if (count == 7)
@@ -134,7 +145,8 @@ public class domandaUpdareDomande : MonoBehaviour
 
             economia = economia + primaDomanda.variazioneEconomiaA8;
             salute = salute - primaDomanda.variazioneSaluteA8;
-            ambiente = ambiente + primaDomanda.variazioneAmbienteA8;
+            ambiente = ambiente - primaDomanda.variazioneAmbienteA8;
+            energia = energia + primaDomanda.variazioneEnergiaA8;
             count++;
         }
         else if (count == 8)
@@ -146,7 +158,8 @@ public class domandaUpdareDomande : MonoBehaviour
 
             economia = economia + primaDomanda.variazioneEconomiaA9;
             salute = salute - primaDomanda.variazioneSaluteA9;
-            ambiente = ambiente + primaDomanda.variazioneAmbienteA9;
+            ambiente = ambiente - primaDomanda.variazioneAmbienteA9;
+            energia = energia + primaDomanda.variazioneEnergiaA9;
             count++;
         }
         else if (count == 9)
@@ -156,7 +169,7 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA10;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA10;
+            economia = economia - primaDomanda.variazioneEconomiaA10;
             salute = salute - primaDomanda.variazioneSaluteA10;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA10;
             count++;
@@ -168,9 +181,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA11;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA11;
+            economia = economia - primaDomanda.variazioneEconomiaA11;
             salute = salute + primaDomanda.variazioneSaluteA11;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA11;
+            energia = energia + primaDomanda.variazioneEnergiaA11;
             count++;
         }
         else if (count == 11)
@@ -180,9 +194,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA12;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA12;
-            salute = salute - primaDomanda.variazioneSaluteA12;
+            economia = economia - primaDomanda.variazioneEconomiaA12;
+            salute = salute + primaDomanda.variazioneSaluteA12;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA12;
+            energia = energia - primaDomanda.variazioneEnergiaA12;
             count++;
         }
         else if (count == 12)
@@ -192,9 +207,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA13;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA13;
+            economia = economia - primaDomanda.variazioneEconomiaA13;
             salute = salute - primaDomanda.variazioneSaluteA13;
-            ambiente = ambiente + primaDomanda.variazioneAmbienteA13;
+            ambiente = ambiente - primaDomanda.variazioneAmbienteA13;
+            energia = energia + primaDomanda.variazioneEnergiaA13;
             count++;
         }
         else if (count == 13)
@@ -207,6 +223,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia + primaDomanda.variazioneEconomiaA14;
             salute = salute - primaDomanda.variazioneSaluteA14;
             ambiente = ambiente + primaDomanda.variazioneAmbienteA14;
+            energia = energia - primaDomanda.variazioneEnergiaA14;
             count++;
         }
         else if (count == 14)
@@ -216,9 +233,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA15;
             countData = countData + 2;
 
-            economia = economia + primaDomanda.variazioneEconomiaA15;
+            economia = economia - primaDomanda.variazioneEconomiaA15;
             salute = salute - primaDomanda.variazioneSaluteA15;
-            ambiente = ambiente + primaDomanda.variazioneAmbienteA15;
+            ambiente = ambiente - primaDomanda.variazioneAmbienteA15;
+            energia = energia + primaDomanda.variazioneEnergiaA15;
             count++;
         }
     }
@@ -247,6 +265,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia - primaDomanda.variazioneEconomiaB2;
             salute = salute + primaDomanda.variazioneSaluteB2;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB2;
+
             count++;
         }
         else if (count == 2)
@@ -257,7 +276,7 @@ public class domandaUpdareDomande : MonoBehaviour
             countData = countData + 2;
 
             economia = economia - primaDomanda.variazioneEconomiaB3;
-            salute = salute + primaDomanda.variazioneSaluteB3;
+            salute = salute - primaDomanda.variazioneSaluteB3;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB3;
             count++;
         }
@@ -268,7 +287,7 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA4;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB4;
+            economia = economia + primaDomanda.variazioneEconomiaB4;
             salute = salute + primaDomanda.variazioneSaluteB4;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB4;
             count++;
@@ -281,8 +300,9 @@ public class domandaUpdareDomande : MonoBehaviour
             countData = countData + 2;
 
             economia = economia - primaDomanda.variazioneEconomiaB5;
-            salute = salute + primaDomanda.variazioneSaluteB5;
+            salute = salute - primaDomanda.variazioneSaluteB5;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB5;
+            energia = energia + primaDomanda.variazioneEnergiaB5;
             count++;
         }
         else if (count == 5)
@@ -295,6 +315,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia - primaDomanda.variazioneEconomiaB6;
             salute = salute + primaDomanda.variazioneSaluteB6;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB6;
+            energia = energia + primaDomanda.variazioneEnergiaB6;
             count++;
         }
         else if (count == 6)
@@ -307,6 +328,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia - primaDomanda.variazioneEconomiaB7;
             salute = salute + primaDomanda.variazioneSaluteB7;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB7;
+            energia = energia + primaDomanda.variazioneEnergiaB7;
             count++;
         }
         else if (count == 7)
@@ -318,7 +340,8 @@ public class domandaUpdareDomande : MonoBehaviour
 
             economia = economia - primaDomanda.variazioneEconomiaB8;
             salute = salute + primaDomanda.variazioneSaluteB8;
-            ambiente = ambiente - primaDomanda.variazioneAmbienteB8;
+            ambiente = ambiente + primaDomanda.variazioneAmbienteB8;
+            energia = energia - primaDomanda.variazioneEnergiaB8;
             count++;
         }
         else if (count == 8)
@@ -330,7 +353,7 @@ public class domandaUpdareDomande : MonoBehaviour
 
             economia = economia - primaDomanda.variazioneEconomiaB9;
             salute = salute + primaDomanda.variazioneSaluteB9;
-            ambiente = ambiente - primaDomanda.variazioneAmbienteB9;
+            ambiente = ambiente + primaDomanda.variazioneAmbienteB9;
             count++;
         }
         else if (count == 9)
@@ -340,7 +363,7 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA10;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB10;
+            economia = economia + primaDomanda.variazioneEconomiaB10;
             salute = salute + primaDomanda.variazioneSaluteB10;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB10;
             count++;
@@ -352,7 +375,7 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA11;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB11;
+            economia = economia + primaDomanda.variazioneEconomiaB11;
             salute = salute - primaDomanda.variazioneSaluteB11;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB11;
             energia = energia - primaDomanda.variazioneEnergiaB11;
@@ -365,9 +388,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA12;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB12;
+            economia = economia + primaDomanda.variazioneEconomiaB12;
             salute = salute + primaDomanda.variazioneSaluteB12;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB12;
+            energia = energia + primaDomanda.variazioneEnergiaB12;
             count++;
         }
         else if (count == 12)
@@ -377,9 +401,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA13;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB13;
+            economia = economia + primaDomanda.variazioneEconomiaB13;
             salute = salute + primaDomanda.variazioneSaluteB13;
-            ambiente = ambiente - primaDomanda.variazioneAmbienteB13;
+            ambiente = ambiente + primaDomanda.variazioneAmbienteB13;
+            energia = energia - primaDomanda.variazioneEnergiaB5;
             count++;
         }
         else if (count == 13)
@@ -392,6 +417,7 @@ public class domandaUpdareDomande : MonoBehaviour
             economia = economia - primaDomanda.variazioneEconomiaB14;
             salute = salute + primaDomanda.variazioneSaluteB14;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB14;
+            energia = energia + primaDomanda.variazioneEnergiaB5;
             count++;
         }
         else if (count == 14)
@@ -401,9 +427,10 @@ public class domandaUpdareDomande : MonoBehaviour
             TestoRispostaA.text = RispostaA.testoRispostaA15;
             countData = countData + 2;
 
-            economia = economia - primaDomanda.variazioneEconomiaB15;
+            economia = economia + primaDomanda.variazioneEconomiaB15;
             salute = salute + primaDomanda.variazioneSaluteB15;
             ambiente = ambiente - primaDomanda.variazioneAmbienteB15;
+            energia = energia - primaDomanda.variazioneEnergiaB15;
             count++;
         }
     }

@@ -21,4 +21,8 @@ public class menu_Script : MonoBehaviour
     {
         AsyncOperation TitoliDiCoda = SceneManager.LoadSceneAsync(4);
     }
+    public void menu()
+    {
+        AsyncOperation TitoliDiCoda = SceneManager.LoadSceneAsync(0);
+    }
 }
