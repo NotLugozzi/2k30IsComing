@@ -13,9 +13,9 @@ Tutto il codice all'interno di questa Repo è distributito sotto la licenza GNU 
 ### Milestones
 - [x] prima build
 - [x] interfaccia
-- [ ] grafica decente
-- [ ] consegna del progetto - 4/5/21
-
+- [x] consegna del progetto - 4/5/21
+- [ ] bump versione android da *pre* a *beta*
+- [ ] bump versione windows da *beta* a *rel*
 ### Il progetto in sintesi:
 Il giocatore si metterà nei panni di un cittadino e dovrà prendere decisioni su come svolgere la sua vita. In base a queste decisioni verranno alterati alcuni valori come la quantità di soldi che abbiamo, il nostro rispetto per l’ambiente, la nostra energia e la nostra salute. Ogni scelta vale due anni e gli obbiettivi vanno raggiunti in dei lassi di tempo prestabiliti:
 - obbiettivo 1 (2000->2010)
